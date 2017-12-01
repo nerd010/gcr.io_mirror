@@ -5,3 +5,7 @@ gcr.io/google_containers/pause-arm64:3.0 √
 
 gcr.io/google_containers/pause-arm64:2.0 √
 
+gcr.io/google_containers/pause-arm64:3.0 √
+
+gcr.io/google_containers/pause-arm64:2.0 √
+

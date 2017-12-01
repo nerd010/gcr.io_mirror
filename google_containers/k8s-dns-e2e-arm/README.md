@@ -3,3 +3,5 @@ gcr.io/google-containers/k8s-dns-e2e-arm
 ----
 gcr.io/google_containers/k8s-dns-e2e-arm:1.12.1 √
 
+gcr.io/google_containers/k8s-dns-e2e-arm:1.12.1 √
+

@@ -5,3 +5,7 @@ gcr.io/google_containers/check-metadata-concealment:v0.0.2 √
 
 gcr.io/google_containers/check-metadata-concealment:v0.0.1 √
 
+gcr.io/google_containers/check-metadata-concealment:v0.0.2 √
+
+gcr.io/google_containers/check-metadata-concealment:v0.0.1 √
+

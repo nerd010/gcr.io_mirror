@@ -5,3 +5,7 @@ gcr.io/google_containers/dns-rc-autoscaler:0.6 √
 
 gcr.io/google_containers/dns-rc-autoscaler:0.5 √
 
+gcr.io/google_containers/dns-rc-autoscaler:0.6 √
+
+gcr.io/google_containers/dns-rc-autoscaler:0.5 √
+

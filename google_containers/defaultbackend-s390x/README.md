@@ -5,3 +5,7 @@ gcr.io/google_containers/defaultbackend-s390x:1.4 √
 
 gcr.io/google_containers/defaultbackend-s390x:1.3 √
 
+gcr.io/google_containers/defaultbackend-s390x:1.4 √
+
+gcr.io/google_containers/defaultbackend-s390x:1.3 √
+

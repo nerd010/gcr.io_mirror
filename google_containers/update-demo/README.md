@@ -5,3 +5,7 @@ gcr.io/google_containers/update-demo:nautilus √
 
 gcr.io/google_containers/update-demo:kitten √
 
+gcr.io/google_containers/update-demo:nautilus √
+
+gcr.io/google_containers/update-demo:kitten √
+

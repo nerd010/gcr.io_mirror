@@ -5,3 +5,7 @@ gcr.io/google_containers/queue-health-base:v20161020 √
 
 gcr.io/google_containers/queue-health-base:latest √
 
+gcr.io/google_containers/queue-health-base:v20161020 √
+
+gcr.io/google_containers/queue-health-base:latest √
+

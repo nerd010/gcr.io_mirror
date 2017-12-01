@@ -5,3 +5,7 @@ gcr.io/google_containers/heapster-influxdb-arm:v1.3.3 √
 
 gcr.io/google_containers/heapster-influxdb-arm:v1.1.1 √
 
+gcr.io/google_containers/heapster-influxdb-arm:v1.3.3 √
+
+gcr.io/google_containers/heapster-influxdb-arm:v1.1.1 √
+

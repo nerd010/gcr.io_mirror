@@ -5,3 +5,7 @@ gcr.io/google_containers/example-guestbook-php-redis:v3 √
 
 gcr.io/google_containers/example-guestbook-php-redis:v2 √
 
+gcr.io/google_containers/example-guestbook-php-redis:v3 √
+
+gcr.io/google_containers/example-guestbook-php-redis:v2 √
+

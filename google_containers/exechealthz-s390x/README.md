@@ -5,3 +5,7 @@ gcr.io/google_containers/exechealthz-s390x:81a86332 √
 
 gcr.io/google_containers/exechealthz-s390x:1.2 √
 
+gcr.io/google_containers/exechealthz-s390x:81a86332 √
+
+gcr.io/google_containers/exechealthz-s390x:1.2 √
+

@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last sync 2017-12-01 08:39]
+Google Container Registry Mirror [last sync 2017-12-01 22:59]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
 
-Total of 425's gcr.io images
+Total of 426's gcr.io images
 -------
 
 Useage
@@ -354,6 +354,8 @@ gcr.io/google_containers/hyperkube-arm64 √
 gcr.io/google_containers/hyperkube-ppc64le √
 
 gcr.io/google_containers/hyperkube-s390x √
+
+gcr.io/google_containers/ingress-gce-glbc-amd64 √
 
 gcr.io/google_containers/iperf √
 
