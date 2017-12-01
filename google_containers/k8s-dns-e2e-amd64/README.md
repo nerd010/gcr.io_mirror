@@ -1,3 +1,0 @@
-new Image: gcr.io/google-containers/k8s-dns-e2e-amd64
-gcr.io/google_containers/k8s-dns-e2e-amd64:1.12.1 √
-
