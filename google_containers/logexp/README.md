@@ -1,0 +1,7 @@
+gcr.io/google-containers/logexp 
+
+----
+gcr.io/google_containers/logexp:test √
+
+gcr.io/google_containers/logexp:latest √
+

@@ -1,0 +1,7 @@
+gcr.io/google-containers/kubernetes-dashboard-init-arm 
+
+----
+gcr.io/google_containers/kubernetes-dashboard-init-arm:v1.0.1 √
+
+gcr.io/google_containers/kubernetes-dashboard-init-arm:v1.0.0 √
+

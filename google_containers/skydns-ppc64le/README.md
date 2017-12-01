@@ -1,0 +1,5 @@
+gcr.io/google-containers/skydns-ppc64le 
+
+----
+gcr.io/google_containers/skydns-ppc64le:1.0 √
+
