@@ -1,23 +1,13 @@
-gcr.io/google-containers/fluentd-sidecar-gcp 
+[gcr.io/google-containers/fluentd-sidecar-gcp](https://hub.docker.com/r/anjia0532/fluentd-sidecar-gcp/tags/) 
 
 ----
-gcr.io/google_containers/fluentd-sidecar-gcp:1.4 √
+[gcr.io/google_containers/fluentd-sidecar-gcp:1.4 √](https://hub.docker.com/r/anjia0532/fluentd-sidecar-gcp/tags/)
 
-gcr.io/google_containers/fluentd-sidecar-gcp:1.3 √
+[gcr.io/google_containers/fluentd-sidecar-gcp:1.3 √](https://hub.docker.com/r/anjia0532/fluentd-sidecar-gcp/tags/)
 
-gcr.io/google_containers/fluentd-sidecar-gcp:1.2 √
+[gcr.io/google_containers/fluentd-sidecar-gcp:1.2 √](https://hub.docker.com/r/anjia0532/fluentd-sidecar-gcp/tags/)
 
-gcr.io/google_containers/fluentd-sidecar-gcp:1.1 √
+[gcr.io/google_containers/fluentd-sidecar-gcp:1.1 √](https://hub.docker.com/r/anjia0532/fluentd-sidecar-gcp/tags/)
 
-gcr.io/google_containers/fluentd-sidecar-gcp:1.0 √
-
-gcr.io/google_containers/fluentd-sidecar-gcp:1.4 √
-
-gcr.io/google_containers/fluentd-sidecar-gcp:1.3 √
-
-gcr.io/google_containers/fluentd-sidecar-gcp:1.2 √
-
-gcr.io/google_containers/fluentd-sidecar-gcp:1.1 √
-
-gcr.io/google_containers/fluentd-sidecar-gcp:1.0 √
+[gcr.io/google_containers/fluentd-sidecar-gcp:1.0 √](https://hub.docker.com/r/anjia0532/fluentd-sidecar-gcp/tags/)
 

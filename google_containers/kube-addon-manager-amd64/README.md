@@ -1,87 +1,45 @@
-gcr.io/google-containers/kube-addon-manager-amd64 
+[gcr.io/google-containers/kube-addon-manager-amd64](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/) 
 
 ----
-gcr.io/google_containers/kube-addon-manager-amd64:v6.5 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.5 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4-beta.2 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.4-beta.2 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4-beta.1 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.4-beta.1 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4-alpha.3 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.4-alpha.3 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4-alpha.2 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.4-alpha.2 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4-alpha.1 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.4-alpha.1 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.4 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.3 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.3 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.2 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.2 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.1.2 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.1.2 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.1 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.1 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.0-alpha.1 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.0-alpha.1 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6.0 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6.0 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v6 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v6 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v5.2 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v5.2 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v5.1.1 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v5.1.1 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v5.1 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v5.1 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v5 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v5 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v4 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v4 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v3 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v3 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 
-gcr.io/google_containers/kube-addon-manager-amd64:v2 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.5 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4-beta.2 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4-beta.1 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4-alpha.3 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4-alpha.2 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4-alpha.1 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.4 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.3 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.2 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.1.2 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.1 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.0-alpha.1 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6.0 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v6 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v5.2 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v5.1.1 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v5.1 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v5 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v4 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v3 √
-
-gcr.io/google_containers/kube-addon-manager-amd64:v2 √
+[gcr.io/google_containers/kube-addon-manager-amd64:v2 √](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/)
 

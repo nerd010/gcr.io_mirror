@@ -1,19 +1,11 @@
-gcr.io/google-containers/kube-dnsmasq-amd64 
+[gcr.io/google-containers/kube-dnsmasq-amd64](https://hub.docker.com/r/anjia0532/kube-dnsmasq-amd64/tags/) 
 
 ----
-gcr.io/google_containers/kube-dnsmasq-amd64:1.4.1 √
+[gcr.io/google_containers/kube-dnsmasq-amd64:1.4.1 √](https://hub.docker.com/r/anjia0532/kube-dnsmasq-amd64/tags/)
 
-gcr.io/google_containers/kube-dnsmasq-amd64:1.4 √
+[gcr.io/google_containers/kube-dnsmasq-amd64:1.4 √](https://hub.docker.com/r/anjia0532/kube-dnsmasq-amd64/tags/)
 
-gcr.io/google_containers/kube-dnsmasq-amd64:1.3 √
+[gcr.io/google_containers/kube-dnsmasq-amd64:1.3 √](https://hub.docker.com/r/anjia0532/kube-dnsmasq-amd64/tags/)
 
-gcr.io/google_containers/kube-dnsmasq-amd64:1.2 √
-
-gcr.io/google_containers/kube-dnsmasq-amd64:1.4.1 √
-
-gcr.io/google_containers/kube-dnsmasq-amd64:1.4 √
-
-gcr.io/google_containers/kube-dnsmasq-amd64:1.3 √
-
-gcr.io/google_containers/kube-dnsmasq-amd64:1.2 √
+[gcr.io/google_containers/kube-dnsmasq-amd64:1.2 √](https://hub.docker.com/r/anjia0532/kube-dnsmasq-amd64/tags/)
 

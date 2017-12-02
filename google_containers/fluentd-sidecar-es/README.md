@@ -1,15 +1,9 @@
-gcr.io/google-containers/fluentd-sidecar-es 
+[gcr.io/google-containers/fluentd-sidecar-es](https://hub.docker.com/r/anjia0532/fluentd-sidecar-es/tags/) 
 
 ----
-gcr.io/google_containers/fluentd-sidecar-es:1.2 √
+[gcr.io/google_containers/fluentd-sidecar-es:1.2 √](https://hub.docker.com/r/anjia0532/fluentd-sidecar-es/tags/)
 
-gcr.io/google_containers/fluentd-sidecar-es:1.1 √
+[gcr.io/google_containers/fluentd-sidecar-es:1.1 √](https://hub.docker.com/r/anjia0532/fluentd-sidecar-es/tags/)
 
-gcr.io/google_containers/fluentd-sidecar-es:1.0 √
-
-gcr.io/google_containers/fluentd-sidecar-es:1.2 √
-
-gcr.io/google_containers/fluentd-sidecar-es:1.1 √
-
-gcr.io/google_containers/fluentd-sidecar-es:1.0 √
+[gcr.io/google_containers/fluentd-sidecar-es:1.0 √](https://hub.docker.com/r/anjia0532/fluentd-sidecar-es/tags/)
 

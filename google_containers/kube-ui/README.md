@@ -1,27 +1,15 @@
-gcr.io/google-containers/kube-ui 
+[gcr.io/google-containers/kube-ui](https://hub.docker.com/r/anjia0532/kube-ui/tags/) 
 
 ----
-gcr.io/google_containers/kube-ui:v5 √
+[gcr.io/google_containers/kube-ui:v5 √](https://hub.docker.com/r/anjia0532/kube-ui/tags/)
 
-gcr.io/google_containers/kube-ui:v4 √
+[gcr.io/google_containers/kube-ui:v4 √](https://hub.docker.com/r/anjia0532/kube-ui/tags/)
 
-gcr.io/google_containers/kube-ui:v3 √
+[gcr.io/google_containers/kube-ui:v3 √](https://hub.docker.com/r/anjia0532/kube-ui/tags/)
 
-gcr.io/google_containers/kube-ui:v2 √
+[gcr.io/google_containers/kube-ui:v2 √](https://hub.docker.com/r/anjia0532/kube-ui/tags/)
 
-gcr.io/google_containers/kube-ui:v1.1 √
+[gcr.io/google_containers/kube-ui:v1.1 √](https://hub.docker.com/r/anjia0532/kube-ui/tags/)
 
-gcr.io/google_containers/kube-ui:v1 √
-
-gcr.io/google_containers/kube-ui:v5 √
-
-gcr.io/google_containers/kube-ui:v4 √
-
-gcr.io/google_containers/kube-ui:v3 √
-
-gcr.io/google_containers/kube-ui:v2 √
-
-gcr.io/google_containers/kube-ui:v1.1 √
-
-gcr.io/google_containers/kube-ui:v1 √
+[gcr.io/google_containers/kube-ui:v1 √](https://hub.docker.com/r/anjia0532/kube-ui/tags/)
 

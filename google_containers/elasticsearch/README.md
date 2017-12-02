@@ -1,75 +1,39 @@
-gcr.io/google-containers/elasticsearch 
+[gcr.io/google-containers/elasticsearch](https://hub.docker.com/r/anjia0532/elasticsearch/tags/) 
 
 ----
-gcr.io/google_containers/elasticsearch:v5.6.4 √
+[gcr.io/google_containers/elasticsearch:v5.6.4 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:v5.6.2 √
+[gcr.io/google_containers/elasticsearch:v5.6.2 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:v5.5.1-1 √
+[gcr.io/google_containers/elasticsearch:v5.5.1-1 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:v5.5.1 √
+[gcr.io/google_containers/elasticsearch:v5.5.1 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:v5.4.0-1 √
+[gcr.io/google_containers/elasticsearch:v5.4.0-1 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:v2.4.1-3 √
+[gcr.io/google_containers/elasticsearch:v2.4.1-3 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:v2.4.1-2 √
+[gcr.io/google_containers/elasticsearch:v2.4.1-2 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:v2.4.1-1 √
+[gcr.io/google_containers/elasticsearch:v2.4.1-1 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:v2.4.1 √
+[gcr.io/google_containers/elasticsearch:v2.4.1 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:1.9 √
+[gcr.io/google_containers/elasticsearch:1.9 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:1.8 √
+[gcr.io/google_containers/elasticsearch:1.8 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:1.7 √
+[gcr.io/google_containers/elasticsearch:1.7 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:1.5 √
+[gcr.io/google_containers/elasticsearch:1.5 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:1.4 √
+[gcr.io/google_containers/elasticsearch:1.4 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:1.3 √
+[gcr.io/google_containers/elasticsearch:1.3 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:1.2 √
+[gcr.io/google_containers/elasticsearch:1.2 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:1.1 √
+[gcr.io/google_containers/elasticsearch:1.1 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 
-gcr.io/google_containers/elasticsearch:1.0 √
-
-gcr.io/google_containers/elasticsearch:v5.6.4 √
-
-gcr.io/google_containers/elasticsearch:v5.6.2 √
-
-gcr.io/google_containers/elasticsearch:v5.5.1-1 √
-
-gcr.io/google_containers/elasticsearch:v5.5.1 √
-
-gcr.io/google_containers/elasticsearch:v5.4.0-1 √
-
-gcr.io/google_containers/elasticsearch:v2.4.1-3 √
-
-gcr.io/google_containers/elasticsearch:v2.4.1-2 √
-
-gcr.io/google_containers/elasticsearch:v2.4.1-1 √
-
-gcr.io/google_containers/elasticsearch:v2.4.1 √
-
-gcr.io/google_containers/elasticsearch:1.9 √
-
-gcr.io/google_containers/elasticsearch:1.8 √
-
-gcr.io/google_containers/elasticsearch:1.7 √
-
-gcr.io/google_containers/elasticsearch:1.5 √
-
-gcr.io/google_containers/elasticsearch:1.4 √
-
-gcr.io/google_containers/elasticsearch:1.3 √
-
-gcr.io/google_containers/elasticsearch:1.2 √
-
-gcr.io/google_containers/elasticsearch:1.1 √
-
-gcr.io/google_containers/elasticsearch:1.0 √
+[gcr.io/google_containers/elasticsearch:1.0 √](https://hub.docker.com/r/anjia0532/elasticsearch/tags/)
 

@@ -1,47 +1,25 @@
-gcr.io/google-containers/gen-swagger-docs 
+[gcr.io/google-containers/gen-swagger-docs](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/) 
 
 ----
-gcr.io/google_containers/gen-swagger-docs:v8 √
+[gcr.io/google_containers/gen-swagger-docs:v8 √](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/)
 
-gcr.io/google_containers/gen-swagger-docs:v7 √
+[gcr.io/google_containers/gen-swagger-docs:v7 √](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/)
 
-gcr.io/google_containers/gen-swagger-docs:v6 √
+[gcr.io/google_containers/gen-swagger-docs:v6 √](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/)
 
-gcr.io/google_containers/gen-swagger-docs:v5 √
+[gcr.io/google_containers/gen-swagger-docs:v5 √](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/)
 
-gcr.io/google_containers/gen-swagger-docs:v4.2 √
+[gcr.io/google_containers/gen-swagger-docs:v4.2 √](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/)
 
-gcr.io/google_containers/gen-swagger-docs:v4.1 √
+[gcr.io/google_containers/gen-swagger-docs:v4.1 √](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/)
 
-gcr.io/google_containers/gen-swagger-docs:v4 √
+[gcr.io/google_containers/gen-swagger-docs:v4 √](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/)
 
-gcr.io/google_containers/gen-swagger-docs:v3 √
+[gcr.io/google_containers/gen-swagger-docs:v3 √](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/)
 
-gcr.io/google_containers/gen-swagger-docs:v2 √
+[gcr.io/google_containers/gen-swagger-docs:v2 √](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/)
 
-gcr.io/google_containers/gen-swagger-docs:v1.1 √
+[gcr.io/google_containers/gen-swagger-docs:v1.1 √](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/)
 
-gcr.io/google_containers/gen-swagger-docs:v1 √
-
-gcr.io/google_containers/gen-swagger-docs:v8 √
-
-gcr.io/google_containers/gen-swagger-docs:v7 √
-
-gcr.io/google_containers/gen-swagger-docs:v6 √
-
-gcr.io/google_containers/gen-swagger-docs:v5 √
-
-gcr.io/google_containers/gen-swagger-docs:v4.2 √
-
-gcr.io/google_containers/gen-swagger-docs:v4.1 √
-
-gcr.io/google_containers/gen-swagger-docs:v4 √
-
-gcr.io/google_containers/gen-swagger-docs:v3 √
-
-gcr.io/google_containers/gen-swagger-docs:v2 √
-
-gcr.io/google_containers/gen-swagger-docs:v1.1 √
-
-gcr.io/google_containers/gen-swagger-docs:v1 √
+[gcr.io/google_containers/gen-swagger-docs:v1 √](https://hub.docker.com/r/anjia0532/gen-swagger-docs/tags/)
 

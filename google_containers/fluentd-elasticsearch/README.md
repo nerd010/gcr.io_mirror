@@ -1,99 +1,51 @@
-gcr.io/google-containers/fluentd-elasticsearch 
+[gcr.io/google-containers/fluentd-elasticsearch](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/) 
 
 ----
-gcr.io/google_containers/fluentd-elasticsearch:v2.0.2 √
+[gcr.io/google_containers/fluentd-elasticsearch:v2.0.2 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:v2.0.1 √
+[gcr.io/google_containers/fluentd-elasticsearch:v2.0.1 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:v2.0.0 √
+[gcr.io/google_containers/fluentd-elasticsearch:v2.0.0 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.9 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.9 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.8 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.8 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.7 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.7 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.6b √
+[gcr.io/google_containers/fluentd-elasticsearch:1.6b √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.6 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.6 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.5 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.5 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.4 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.4 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.3 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.3 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.24 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.24 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.23 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.23 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.22 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.22 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.20 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.20 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.19 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.19 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.18 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.18 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.17 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.17 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.16 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.16 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.15 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.15 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.14 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.14 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.13 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.13 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.12 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.12 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 
-gcr.io/google_containers/fluentd-elasticsearch:1.11 √
-
-gcr.io/google_containers/fluentd-elasticsearch:v2.0.2 √
-
-gcr.io/google_containers/fluentd-elasticsearch:v2.0.1 √
-
-gcr.io/google_containers/fluentd-elasticsearch:v2.0.0 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.9 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.8 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.7 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.6b √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.6 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.5 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.4 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.3 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.24 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.23 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.22 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.20 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.19 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.18 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.17 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.16 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.15 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.14 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.13 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.12 √
-
-gcr.io/google_containers/fluentd-elasticsearch:1.11 √
+[gcr.io/google_containers/fluentd-elasticsearch:1.11 √](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/)
 

@@ -1,27 +1,15 @@
-gcr.io/google-containers/cassandra 
+[gcr.io/google-containers/cassandra](https://hub.docker.com/r/anjia0532/cassandra/tags/) 
 
 ----
-gcr.io/google_containers/cassandra:v7 √
+[gcr.io/google_containers/cassandra:v7 √](https://hub.docker.com/r/anjia0532/cassandra/tags/)
 
-gcr.io/google_containers/cassandra:v6 √
+[gcr.io/google_containers/cassandra:v6 √](https://hub.docker.com/r/anjia0532/cassandra/tags/)
 
-gcr.io/google_containers/cassandra:v5 √
+[gcr.io/google_containers/cassandra:v5 √](https://hub.docker.com/r/anjia0532/cassandra/tags/)
 
-gcr.io/google_containers/cassandra:v4 √
+[gcr.io/google_containers/cassandra:v4 √](https://hub.docker.com/r/anjia0532/cassandra/tags/)
 
-gcr.io/google_containers/cassandra:v3 √
+[gcr.io/google_containers/cassandra:v3 √](https://hub.docker.com/r/anjia0532/cassandra/tags/)
 
-gcr.io/google_containers/cassandra:v2 √
-
-gcr.io/google_containers/cassandra:v7 √
-
-gcr.io/google_containers/cassandra:v6 √
-
-gcr.io/google_containers/cassandra:v5 √
-
-gcr.io/google_containers/cassandra:v4 √
-
-gcr.io/google_containers/cassandra:v3 √
-
-gcr.io/google_containers/cassandra:v2 √
+[gcr.io/google_containers/cassandra:v2 √](https://hub.docker.com/r/anjia0532/cassandra/tags/)
 
