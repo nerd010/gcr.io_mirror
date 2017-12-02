@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last sync 2017-12-02 09:37 UTC]
+Google Container Registry Mirror [last sync 2017-12-02 10:44 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
@@ -15,10 +15,10 @@ docker pull gcr.io/google-containers/federation-controller-manager-arm64:v1.3.1-
 docker pull anjia0532/federation-controller-manager-arm64:v1.3.1-beta.1
 ```
 
-Images
+[Changelog](./CHANGES.md)
 -------
 
-[Changelog](./CHANGES.md)
+Images
 -------
 
 
