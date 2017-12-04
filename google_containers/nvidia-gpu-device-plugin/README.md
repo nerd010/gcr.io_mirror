@@ -1,8 +1,6 @@
 [gcr.io/google-containers/nvidia-gpu-device-plugin](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
 
 ----
-**[gcr.io/google_containers/nvidia-gpu-device-plugin:5bf8ce6e6c19475148e66198bc780a149eb13cf3 updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/)**
-
 [gcr.io/google_containers/nvidia-gpu-device-plugin:ef6c2dfc20bfad0958df62837f10410e918a7d53 √](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/)
 
 [gcr.io/google_containers/nvidia-gpu-device-plugin:dcaaff7d590ce0faf14ced967f29f80c68595595 √](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/)
