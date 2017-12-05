@@ -1,7 +1,11 @@
 [gcr.io/google-containers/etcd](https://hub.docker.com/r/anjia0532/etcd/tags/) 
 
 ----
+**[gcr.io/google_containers/etcd:3.1.11 updated](https://hub.docker.com/r/anjia0532/etcd/tags/)**
+
 [gcr.io/google_containers/etcd:v2.0.3 √](https://hub.docker.com/r/anjia0532/etcd/tags/)
+
+[gcr.io/google_containers/etcd:3.1.11 √](https://hub.docker.com/r/anjia0532/etcd/tags/)
 
 [gcr.io/google_containers/etcd:3.1.10-gke.0 √](https://hub.docker.com/r/anjia0532/etcd/tags/)
 
