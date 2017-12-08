@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last sync 2017-12-07 23:02 UTC]
+Google Container Registry Mirror [last sync 2017-12-08 23:02 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
 
-Total of 426's gcr.io images
+Total of 427's gcr.io images
 -------
 
 Useage
@@ -725,6 +725,8 @@ Images
 [gcr.io/google_containers/porter √](https://hub.docker.com/r/anjia0532/porter/tags/)
 
 [gcr.io/google_containers/portforwardtester √](https://hub.docker.com/r/anjia0532/portforwardtester/tags/)
+
+[gcr.io/google_containers/prometheus-dummy-exporter √](https://hub.docker.com/r/anjia0532/prometheus-dummy-exporter/tags/)
 
 [gcr.io/google_containers/prometheus-to-sd √](https://hub.docker.com/r/anjia0532/prometheus-to-sd/tags/)
 

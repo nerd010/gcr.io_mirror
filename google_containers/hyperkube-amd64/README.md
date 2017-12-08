@@ -1,12 +1,6 @@
 [gcr.io/google-containers/hyperkube-amd64](https://hub.docker.com/r/anjia0532/hyperkube-amd64/tags/) 
 
 ----
-**[gcr.io/google_containers/hyperkube-amd64:v1.8.5 updated](https://hub.docker.com/r/anjia0532/hyperkube-amd64/tags/)**
-
-**[gcr.io/google_containers/hyperkube-amd64:v1.8.6-beta.0 updated](https://hub.docker.com/r/anjia0532/hyperkube-amd64/tags/)**
-
-**[gcr.io/google_containers/hyperkube-amd64:v1.9.0-beta.2 updated](https://hub.docker.com/r/anjia0532/hyperkube-amd64/tags/)**
-
 [gcr.io/google_containers/hyperkube-amd64:v1.9.0-beta.2 √](https://hub.docker.com/r/anjia0532/hyperkube-amd64/tags/)
 
 [gcr.io/google_containers/hyperkube-amd64:v1.9.0-beta.1 √](https://hub.docker.com/r/anjia0532/hyperkube-amd64/tags/)
