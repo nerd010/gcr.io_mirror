@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last sync 2017-12-08 23:02 UTC]
+Google Container Registry Mirror [last sync 2017-12-09 12:15 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
