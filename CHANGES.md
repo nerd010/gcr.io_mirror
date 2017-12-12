@@ -1,3 +1,17 @@
+## 2017-12-12 
+
+1. [gcr.io/google_containers/kubelet-to-gcm:1.2.4 updated](https://hub.docker.com/r/anjia0532/kubelet-to-gcm/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:822fa61e384b4456ddac2b19106bd1d7d777f180 updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:8a23fdc9d635fee1a91b1f9947bb80a7a0edaa5c updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:4b255c98855df64a2c76d29b2583b1245002687c updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
+
+
 ## 2017-12-11 
 
 1. [gcr.io/google_containers/heapster:v1.5.0 updated](https://hub.docker.com/r/anjia0532/heapster/tags/) 
