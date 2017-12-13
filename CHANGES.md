@@ -1,3 +1,8 @@
+## 2017-12-13 
+
+1. [gcr.io/google_containers/etcd-version-monitor:0.1.1 updated](https://hub.docker.com/r/anjia0532/etcd-version-monitor/tags/) 
+
+
 ## 2017-12-12 
 
 1. [gcr.io/google_containers/kubelet-to-gcm:1.2.4 updated](https://hub.docker.com/r/anjia0532/kubelet-to-gcm/tags/) 
