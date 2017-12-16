@@ -1,10 +1,6 @@
 [gcr.io/google-containers/cloud-controller-manager-s390x](https://hub.docker.com/r/anjia0532/cloud-controller-manager-s390x/tags/) 
 
 ----
-**[gcr.io/google_containers/cloud-controller-manager-s390x:v1.9.1-beta.0 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager-s390x/tags/)**
-
-**[gcr.io/google_containers/cloud-controller-manager-s390x:v1.9.0 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager-s390x/tags/)**
-
 [gcr.io/google_containers/cloud-controller-manager-s390x:v1.9.1-beta.0 √](https://hub.docker.com/r/anjia0532/cloud-controller-manager-s390x/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-s390x:v1.9.0-beta.2 √](https://hub.docker.com/r/anjia0532/cloud-controller-manager-s390x/tags/)
