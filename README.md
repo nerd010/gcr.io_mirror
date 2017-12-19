@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last sync 2017-12-18 23:05 UTC]
+Google Container Registry Mirror [last sync 2017-12-19 23:07 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
 
-Total of 427's gcr.io images
+Total of 428's gcr.io images
 -------
 
 Useage
@@ -845,6 +845,8 @@ Images
 [gcr.io/google_containers/toolbox √](https://hub.docker.com/r/anjia0532/toolbox/tags/)
 
 [gcr.io/google_containers/ubuntu √](https://hub.docker.com/r/anjia0532/ubuntu/tags/)
+
+[gcr.io/google_containers/ubuntu-nvidia-driver-installer √](https://hub.docker.com/r/anjia0532/ubuntu-nvidia-driver-installer/tags/)
 
 [gcr.io/google_containers/ubuntu-slim √](https://hub.docker.com/r/anjia0532/ubuntu-slim/tags/)
 
