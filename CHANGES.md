@@ -1,3 +1,44 @@
+## 2017-12-20 
+
+1. [gcr.io/google_containers/metrics-server:v0.2.1 updated](https://hub.docker.com/r/anjia0532/metrics-server/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-amd64:v0.2.1 updated](https://hub.docker.com/r/anjia0532/metrics-server-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-arm:v0.2.1 updated](https://hub.docker.com/r/anjia0532/metrics-server-arm/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-arm64:v0.2.1 updated](https://hub.docker.com/r/anjia0532/metrics-server-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-ppc64le:v0.2.1 updated](https://hub.docker.com/r/anjia0532/metrics-server-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/metrics-server-s390x:v0.2.1 updated](https://hub.docker.com/r/anjia0532/metrics-server-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:490a7f8c4d2659e88315355a678662f7a9967528 updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/pause-amd64:3.1 updated](https://hub.docker.com/r/anjia0532/pause-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/pause-arm:3.1 updated](https://hub.docker.com/r/anjia0532/pause-arm/tags/) 
+
+
+1. [gcr.io/google_containers/pause-arm64:3.1 updated](https://hub.docker.com/r/anjia0532/pause-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/pause-ppc64le:3.1 updated](https://hub.docker.com/r/anjia0532/pause-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/pause-s390x:3.1 updated](https://hub.docker.com/r/anjia0532/pause-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:490a7f8c4d2659e88315355a678662f7a9967528 updated](https://hub.docker.com/r/anjia0532/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2017-12-19 
 
 1. [gcr.io/google_containers/nvidia-gpu-device-plugin:fe721d768bab68913c80d37946151ed4eb800e03 updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
