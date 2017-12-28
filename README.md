@@ -1,4 +1,4 @@
-Google Container Registry Mirror [last sync 2017-12-27 23:21 UTC]
+Google Container Registry Mirror [last sync 2017-12-28 23:10 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
@@ -371,6 +371,8 @@ Images
 [gcr.io/google_containers/ip-masq-agent-ppc64le √](https://hub.docker.com/r/anjia0532/ip-masq-agent-ppc64le/tags/)
 
 [gcr.io/google_containers/jessie-dnsutils √](https://hub.docker.com/r/anjia0532/jessie-dnsutils/tags/)
+
+[gcr.io/google_containers/jsandtest √](https://hub.docker.com/r/anjia0532/jsandtest/tags/)
 
 [gcr.io/google_containers/k8s-custom-iptables √](https://hub.docker.com/r/anjia0532/k8s-custom-iptables/tags/)
 
@@ -829,8 +831,6 @@ Images
 [gcr.io/google_containers/submit-queue √](https://hub.docker.com/r/anjia0532/submit-queue/tags/)
 
 [gcr.io/google_containers/tensorflow-gpu-notebook √](https://hub.docker.com/r/anjia0532/tensorflow-gpu-notebook/tags/)
-
-[gcr.io/google_containers/test-subdir √](https://hub.docker.com/r/anjia0532/test-subdir/tags/)
 
 [gcr.io/google_containers/test-webserver √](https://hub.docker.com/r/anjia0532/test-webserver/tags/)
 
