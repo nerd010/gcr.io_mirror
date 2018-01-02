@@ -1,3 +1,11 @@
+## 2018-01-02 
+
+1. [gcr.io/google_containers/check-metadata-concealment:v0.0.3 updated](https://hub.docker.com/r/anjia0532/check-metadata-concealment/tags/) 
+
+
+1. [gcr.io/google_containers/metadata-proxy:v0.1.7 updated](https://hub.docker.com/r/anjia0532/metadata-proxy/tags/) 
+
+
 ## 2017-12-29 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.7.12 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager/tags/) 
