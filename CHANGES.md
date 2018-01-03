@@ -1,3 +1,8 @@
+## 2018-01-03 
+
+1. [gcr.io/google_containers/fluentd-gcp:2.0.12 updated](https://hub.docker.com/r/anjia0532/fluentd-gcp/tags/) 
+
+
 ## 2018-01-02 
 
 1. [gcr.io/google_containers/check-metadata-concealment:v0.0.3 updated](https://hub.docker.com/r/anjia0532/check-metadata-concealment/tags/) 
