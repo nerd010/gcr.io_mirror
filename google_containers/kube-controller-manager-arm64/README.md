@@ -1,10 +1,6 @@
 [gcr.io/google-containers/kube-controller-manager-arm64](https://hub.docker.com/r/anjia0532/kube-controller-manager-arm64/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-controller-manager-arm64:v1.9.2-beta.0 updated](https://hub.docker.com/r/anjia0532/kube-controller-manager-arm64/tags/)**
-
-**[gcr.io/google_containers/kube-controller-manager-arm64:v1.9.1 updated](https://hub.docker.com/r/anjia0532/kube-controller-manager-arm64/tags/)**
-
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.9.2-beta.0 √](https://hub.docker.com/r/anjia0532/kube-controller-manager-arm64/tags/)
 
 [gcr.io/google_containers/kube-controller-manager-arm64:v1.9.1-beta.0 √](https://hub.docker.com/r/anjia0532/kube-controller-manager-arm64/tags/)
