@@ -1,3 +1,14 @@
+## 2018-01-12 
+
+1. [gcr.io/google_containers/fluentd-elasticsearch:v2.0.3 updated](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/) 
+
+
+1. [gcr.io/google_containers/perfdash:0.9 updated](https://hub.docker.com/r/anjia0532/perfdash/tags/) 
+
+
+1. [gcr.io/google_containers/perfdash:0.10 updated](https://hub.docker.com/r/anjia0532/perfdash/tags/) 
+
+
 ## 2018-01-11 
 
 1. [gcr.io/google_containers/nvidia-gpu-device-plugin:be78fc2ad63db8b598d341dacb30e37156621a7f updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
