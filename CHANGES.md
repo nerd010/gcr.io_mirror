@@ -1,3 +1,8 @@
+## 2018-01-14 
+
+1. [gcr.io/google_containers/fluentd-gcp:2.0.14 updated](https://hub.docker.com/r/anjia0532/fluentd-gcp/tags/) 
+
+
 ## 2018-01-12 
 
 1. [gcr.io/google_containers/fluentd-elasticsearch:v2.0.3 updated](https://hub.docker.com/r/anjia0532/fluentd-elasticsearch/tags/) 
