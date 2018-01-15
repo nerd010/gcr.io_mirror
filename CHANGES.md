@@ -1,3 +1,26 @@
+## 2018-01-15 
+
+1. [gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.2 updated](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-arm:v1.8.2 updated](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.8.2 updated](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-ppc64le:v1.8.2 updated](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.8.2 updated](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics:v1.2.0 updated](https://hub.docker.com/r/anjia0532/kube-state-metrics/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-amd64:v1.2.0 updated](https://hub.docker.com/r/anjia0532/kube-state-metrics-amd64/tags/) 
+
+
 ## 2018-01-14 
 
 1. [gcr.io/google_containers/fluentd-gcp:2.0.14 updated](https://hub.docker.com/r/anjia0532/fluentd-gcp/tags/) 
