@@ -1,6 +1,8 @@
 [gcr.io/google-containers/metadata-proxy](https://hub.docker.com/r/anjia0532/metadata-proxy/tags/) 
 
 ----
+[gcr.io/google_containers/metadata-proxy:v0.1.8 √](https://hub.docker.com/r/anjia0532/metadata-proxy/tags/)
+
 [gcr.io/google_containers/metadata-proxy:v0.1.7 √](https://hub.docker.com/r/anjia0532/metadata-proxy/tags/)
 
 [gcr.io/google_containers/metadata-proxy:v0.1.6 √](https://hub.docker.com/r/anjia0532/metadata-proxy/tags/)
