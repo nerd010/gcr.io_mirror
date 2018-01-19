@@ -1,3 +1,8 @@
+## 2018-01-19 
+
+1. [gcr.io/google_containers/metadata-proxy:v0.1.9 updated](https://hub.docker.com/r/anjia0532/metadata-proxy/tags/) 
+
+
 ## 2018-01-18 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.9.3-beta.0 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager/tags/) 
