@@ -1,6 +1,10 @@
 [gcr.io/google-containers/gcsweb-amd64](https://hub.docker.com/r/anjia0532/gcsweb-amd64/tags/) 
 
 ----
+**[gcr.io/google_containers/gcsweb-amd64:v1.0.5 updated](https://hub.docker.com/r/anjia0532/gcsweb-amd64/tags/)**
+
+[gcr.io/google_containers/gcsweb-amd64:v1.0.5 √](https://hub.docker.com/r/anjia0532/gcsweb-amd64/tags/)
+
 [gcr.io/google_containers/gcsweb-amd64:v1.0.4 √](https://hub.docker.com/r/anjia0532/gcsweb-amd64/tags/)
 
 [gcr.io/google_containers/gcsweb-amd64:v1.0.3 √](https://hub.docker.com/r/anjia0532/gcsweb-amd64/tags/)
