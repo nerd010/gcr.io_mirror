@@ -1,3 +1,23 @@
+## 2018-01-24 
+
+1. [gcr.io/google_containers/gcsweb-amd64:v1.0.6 updated](https://hub.docker.com/r/anjia0532/gcsweb-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-addon-manager:v8.5 updated](https://hub.docker.com/r/anjia0532/kube-addon-manager/tags/) 
+
+
+1. [gcr.io/google_containers/kube-addon-manager-amd64:v8.5 updated](https://hub.docker.com/r/anjia0532/kube-addon-manager-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:f56351f7b2fc48e75b3c52e5f4ae101c9aa02f0c updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/toolbox:20180123-00 updated](https://hub.docker.com/r/anjia0532/toolbox/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:f56351f7b2fc48e75b3c52e5f4ae101c9aa02f0c updated](https://hub.docker.com/r/anjia0532/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-01-23 
 
 1. [gcr.io/google_containers/debian-hyperkube-base-amd64:0.9 updated](https://hub.docker.com/r/anjia0532/debian-hyperkube-base-amd64/tags/) 
