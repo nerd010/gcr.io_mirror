@@ -1,7 +1,7 @@
 [gcr.io/google-containers/perfdash](https://hub.docker.com/r/anjia0532/perfdash/tags/) 
 
 ----
-**[gcr.io/google_containers/perfdash:0.10.1 updated](https://hub.docker.com/r/anjia0532/perfdash/tags/)**
+**[gcr.io/google_containers/perfdash:0.11 updated](https://hub.docker.com/r/anjia0532/perfdash/tags/)**
 
 [gcr.io/google_containers/perfdash:0.9 √](https://hub.docker.com/r/anjia0532/perfdash/tags/)
 
@@ -20,6 +20,8 @@
 [gcr.io/google_containers/perfdash:0.3 √](https://hub.docker.com/r/anjia0532/perfdash/tags/)
 
 [gcr.io/google_containers/perfdash:0.2 √](https://hub.docker.com/r/anjia0532/perfdash/tags/)
+
+[gcr.io/google_containers/perfdash:0.11 √](https://hub.docker.com/r/anjia0532/perfdash/tags/)
 
 [gcr.io/google_containers/perfdash:0.10.1 √](https://hub.docker.com/r/anjia0532/perfdash/tags/)
 
