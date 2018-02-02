@@ -1,8 +1,6 @@
 [gcr.io/google-containers/hyperkube](https://hub.docker.com/r/anjia0532/hyperkube/tags/) 
 
 ----
-**[gcr.io/google_containers/hyperkube:v1.10.0-alpha.3 updated](https://hub.docker.com/r/anjia0532/hyperkube/tags/)**
-
 [gcr.io/google_containers/hyperkube:v1.9.3-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube/tags/)
 
 [gcr.io/google_containers/hyperkube:v1.9.2-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube/tags/)
