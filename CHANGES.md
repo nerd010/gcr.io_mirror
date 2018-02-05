@@ -1,3 +1,8 @@
+## 2018-02-05 
+
+1. [gcr.io/google_containers/k8s-tpu-operator:0.1 updated](https://hub.docker.com/r/anjia0532/k8s-tpu-operator/tags/) 
+
+
 ## 2018-02-02 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.0.4 updated](https://hub.docker.com/r/anjia0532/cluster-autoscaler/tags/) 
