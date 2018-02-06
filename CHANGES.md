@@ -1,3 +1,8 @@
+## 2018-02-06 
+
+1. [gcr.io/google_containers/etcd-empty-dir-cleanup:3.1.10.0 updated](https://hub.docker.com/r/anjia0532/etcd-empty-dir-cleanup/tags/) 
+
+
 ## 2018-02-05 
 
 1. [gcr.io/google_containers/k8s-tpu-operator:0.1 updated](https://hub.docker.com/r/anjia0532/k8s-tpu-operator/tags/) 
