@@ -1,3 +1,41 @@
+## 2018-02-12 
+
+1. [gcr.io/google_containers/debian-base-amd64:0.3 updated](https://hub.docker.com/r/anjia0532/debian-base-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-arm:0.3 updated](https://hub.docker.com/r/anjia0532/debian-base-arm/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-arm64:0.3 updated](https://hub.docker.com/r/anjia0532/debian-base-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-ppc64le:0.3 updated](https://hub.docker.com/r/anjia0532/debian-base-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/debian-base-s390x:0.3 updated](https://hub.docker.com/r/anjia0532/debian-base-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v10 updated](https://hub.docker.com/r/anjia0532/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-arm:v10 updated](https://hub.docker.com/r/anjia0532/debian-iptables-arm/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-arm64:v10 updated](https://hub.docker.com/r/anjia0532/debian-iptables-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-ppc64le:v10 updated](https://hub.docker.com/r/anjia0532/debian-iptables-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-s390x:v10 updated](https://hub.docker.com/r/anjia0532/debian-iptables-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/event-exporter:v0.1.8 updated](https://hub.docker.com/r/anjia0532/event-exporter/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:0.9.8-alpha.2 updated](https://hub.docker.com/r/anjia0532/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2018-02-10 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.8.8 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager/tags/) 

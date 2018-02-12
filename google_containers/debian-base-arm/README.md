@@ -1,6 +1,8 @@
 [gcr.io/google-containers/debian-base-arm](https://hub.docker.com/r/anjia0532/debian-base-arm/tags/) 
 
 ----
+**[gcr.io/google_containers/debian-base-arm:0.3 updated](https://hub.docker.com/r/anjia0532/debian-base-arm/tags/)**
+
 [gcr.io/google_containers/debian-base-arm:0.3 √](https://hub.docker.com/r/anjia0532/debian-base-arm/tags/)
 
 [gcr.io/google_containers/debian-base-arm:0.2 √](https://hub.docker.com/r/anjia0532/debian-base-arm/tags/)
