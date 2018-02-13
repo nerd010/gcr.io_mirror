@@ -1,8 +1,6 @@
 [gcr.io/google-containers/debian-base-s390x](https://hub.docker.com/r/anjia0532/debian-base-s390x/tags/) 
 
 ----
-**[gcr.io/google_containers/debian-base-s390x:0.3 updated](https://hub.docker.com/r/anjia0532/debian-base-s390x/tags/)**
-
 [gcr.io/google_containers/debian-base-s390x:0.3 √](https://hub.docker.com/r/anjia0532/debian-base-s390x/tags/)
 
 [gcr.io/google_containers/debian-base-s390x:0.2 √](https://hub.docker.com/r/anjia0532/debian-base-s390x/tags/)

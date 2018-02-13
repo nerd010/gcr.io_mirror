@@ -1,3 +1,47 @@
+## 2018-02-13 
+
+1. [gcr.io/google_containers/debian-hyperkube-base-amd64:0.9 updated](https://hub.docker.com/r/anjia0532/debian-hyperkube-base-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-arm:0.9 updated](https://hub.docker.com/r/anjia0532/debian-hyperkube-base-arm/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-arm64:0.9 updated](https://hub.docker.com/r/anjia0532/debian-hyperkube-base-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-ppc64le:0.9 updated](https://hub.docker.com/r/anjia0532/debian-hyperkube-base-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/debian-hyperkube-base-s390x:0.9 updated](https://hub.docker.com/r/anjia0532/debian-hyperkube-base-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/fluentd-gcp:2.0.15 updated](https://hub.docker.com/r/anjia0532/fluentd-gcp/tags/) 
+
+
+1. [gcr.io/google_containers/k8s-tpu-operator:0.1 updated](https://hub.docker.com/r/anjia0532/k8s-tpu-operator/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.3 updated](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-arm:v1.8.3 updated](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-arm64:v1.8.3 updated](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-ppc64le:v1.8.3 updated](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kubernetes-dashboard-s390x:v1.8.3 updated](https://hub.docker.com/r/anjia0532/kubernetes-dashboard-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.2.4 updated](https://hub.docker.com/r/anjia0532/prometheus-to-sd/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:f56351f7b2fc48e75b3c52e5f4ae101c9aa02f0c updated](https://hub.docker.com/r/anjia0532/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-02-12 
 
 1. [gcr.io/google_containers/debian-base-amd64:0.3 updated](https://hub.docker.com/r/anjia0532/debian-base-amd64/tags/) 
