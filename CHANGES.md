@@ -1,3 +1,8 @@
+## 2018-02-19 
+
+1. [gcr.io/google_containers/etcd:3.1.11-experimental.1 updated](https://hub.docker.com/r/anjia0532/etcd/tags/) 
+
+
 ## 2018-02-16 
 
 1. [gcr.io/google_containers/fluentd-gcp:2.0.16 updated](https://hub.docker.com/r/anjia0532/fluentd-gcp/tags/) 
