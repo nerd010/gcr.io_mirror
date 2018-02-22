@@ -1,3 +1,11 @@
+## 2018-02-22 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/anjia0532/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-version-monitor:0.1.2 updated](https://hub.docker.com/r/anjia0532/etcd-version-monitor/tags/) 
+
+
 ## 2018-02-20 
 
 1. [gcr.io/google_containers/cadvisor:v0.29.0 updated](https://hub.docker.com/r/anjia0532/cadvisor/tags/) 
