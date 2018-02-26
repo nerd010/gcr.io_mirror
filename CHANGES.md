@@ -1,3 +1,11 @@
+## 2018-02-26 
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:0c9a43fa8ab044677cfe1e3b23d3dc5a142406f5 updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:0c9a43fa8ab044677cfe1e3b23d3dc5a142406f5 updated](https://hub.docker.com/r/anjia0532/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-02-23 
 
 1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/anjia0532/custom-metrics-stackdriver-adapter/tags/) 
