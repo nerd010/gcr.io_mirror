@@ -1,3 +1,8 @@
+## 2018-02-27 
+
+1. [gcr.io/google_containers/etcd:3.1.11-gke.0 updated](https://hub.docker.com/r/anjia0532/etcd/tags/) 
+
+
 ## 2018-02-26 
 
 1. [gcr.io/google_containers/nvidia-gpu-device-plugin:0c9a43fa8ab044677cfe1e3b23d3dc5a142406f5 updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
