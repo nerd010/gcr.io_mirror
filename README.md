@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last sync 2018-03-04 23:41 UTC]
+Google Container Registry Mirror [last sync 2018-03-05 23:42 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
 
-Total of 431's gcr.io images
+Total of 432's gcr.io images
 -------
 
 Useage
@@ -839,6 +839,8 @@ Images
 [gcr.io/google_containers/test_subdir_1 √](https://hub.docker.com/r/anjia0532/test_subdir_1/tags/)
 
 [gcr.io/google_containers/test-webserver √](https://hub.docker.com/r/anjia0532/test-webserver/tags/)
+
+[gcr.io/google_containers/tf-models √](https://hub.docker.com/r/anjia0532/tf-models/tags/)
 
 [gcr.io/google_containers/tiny-glibc-amd64 √](https://hub.docker.com/r/anjia0532/tiny-glibc-amd64/tags/)
 

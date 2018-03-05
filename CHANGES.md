@@ -1,3 +1,11 @@
+## 2018-03-05 
+
+1. [gcr.io/google_containers/etcd-amd64:3.1.11-gke.1 updated](https://hub.docker.com/r/anjia0532/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/tf-models:1.6.0 updated](https://hub.docker.com/r/anjia0532/tf-models/tags/) 
+
+
 ## 2018-03-02 
 
 1. [gcr.io/google_containers/etcd:3.1.11-experimental.2 updated](https://hub.docker.com/r/anjia0532/etcd/tags/) 
