@@ -1,3 +1,17 @@
+## 2018-03-06 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.1.2 updated](https://hub.docker.com/r/anjia0532/cluster-autoscaler/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v7 updated](https://hub.docker.com/r/anjia0532/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v10 updated](https://hub.docker.com/r/anjia0532/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/ip-masq-agent-amd64:v2.0.2 updated](https://hub.docker.com/r/anjia0532/ip-masq-agent-amd64/tags/) 
+
+
 ## 2018-03-05 
 
 1. [gcr.io/google_containers/etcd-amd64:3.1.11-gke.1 updated](https://hub.docker.com/r/anjia0532/etcd-amd64/tags/) 
