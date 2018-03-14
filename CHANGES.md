@@ -1,3 +1,8 @@
+## 2018-03-14 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.4.0 updated](https://hub.docker.com/r/anjia0532/custom-metrics-stackdriver-adapter/tags/) 
+
+
 ## 2018-03-09 
 
 1. [gcr.io/google_containers/etcd:3.1.12 updated](https://hub.docker.com/r/anjia0532/etcd/tags/) 
