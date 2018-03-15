@@ -1,6 +1,8 @@
 [gcr.io/google-containers/kube-proxy-amd64](https://hub.docker.com/r/anjia0532/kube-proxy-amd64/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-proxy-amd64:v1.10.0-beta.4 updated](https://hub.docker.com/r/anjia0532/kube-proxy-amd64/tags/)**
+
 [gcr.io/google_containers/kube-proxy-amd64:v1.9.5-beta.0 √](https://hub.docker.com/r/anjia0532/kube-proxy-amd64/tags/)
 
 [gcr.io/google_containers/kube-proxy-amd64:v1.9.4-beta.0 √](https://hub.docker.com/r/anjia0532/kube-proxy-amd64/tags/)
@@ -476,6 +478,8 @@
 [gcr.io/google_containers/kube-proxy-amd64:v1.2.0 √](https://hub.docker.com/r/anjia0532/kube-proxy-amd64/tags/)
 
 [gcr.io/google_containers/kube-proxy-amd64:v1.11.0-alpha.0 √](https://hub.docker.com/r/anjia0532/kube-proxy-amd64/tags/)
+
+[gcr.io/google_containers/kube-proxy-amd64:v1.10.0-beta.4 √](https://hub.docker.com/r/anjia0532/kube-proxy-amd64/tags/)
 
 [gcr.io/google_containers/kube-proxy-amd64:v1.10.0-beta.3 √](https://hub.docker.com/r/anjia0532/kube-proxy-amd64/tags/)
 

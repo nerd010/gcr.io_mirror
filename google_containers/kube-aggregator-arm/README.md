@@ -1,6 +1,8 @@
 [gcr.io/google-containers/kube-aggregator-arm](https://hub.docker.com/r/anjia0532/kube-aggregator-arm/tags/) 
 
 ----
+**[gcr.io/google_containers/kube-aggregator-arm:v1.10.0-beta.4 updated](https://hub.docker.com/r/anjia0532/kube-aggregator-arm/tags/)**
+
 [gcr.io/google_containers/kube-aggregator-arm:v1.9.5-beta.0 √](https://hub.docker.com/r/anjia0532/kube-aggregator-arm/tags/)
 
 [gcr.io/google_containers/kube-aggregator-arm:v1.9.4-beta.0 √](https://hub.docker.com/r/anjia0532/kube-aggregator-arm/tags/)
@@ -102,6 +104,8 @@
 [gcr.io/google_containers/kube-aggregator-arm:v1.7.11 √](https://hub.docker.com/r/anjia0532/kube-aggregator-arm/tags/)
 
 [gcr.io/google_containers/kube-aggregator-arm:v1.11.0-alpha.0 √](https://hub.docker.com/r/anjia0532/kube-aggregator-arm/tags/)
+
+[gcr.io/google_containers/kube-aggregator-arm:v1.10.0-beta.4 √](https://hub.docker.com/r/anjia0532/kube-aggregator-arm/tags/)
 
 [gcr.io/google_containers/kube-aggregator-arm:v1.10.0-beta.3 √](https://hub.docker.com/r/anjia0532/kube-aggregator-arm/tags/)
 
