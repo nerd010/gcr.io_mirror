@@ -1,5 +1,19 @@
 ## 2018-03-15 
 
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/anjia0532/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. [gcr.io/google_containers/fluentd-gcp-scaler:0.2 updated](https://hub.docker.com/r/anjia0532/fluentd-gcp-scaler/tags/) 
+
+
+1. [gcr.io/google_containers/registry-promoter-test-image:dev updated](https://hub.docker.com/r/anjia0532/registry-promoter-test-image/tags/) 
+
+
+1. [gcr.io/google_containers/sd-dummy-exporter:v0.2.0 updated](https://hub.docker.com/r/anjia0532/sd-dummy-exporter/tags/) 
+
+
+## 2018-03-15 
+
 1. [gcr.io/google_containers/cloud-controller-manager:v1.10.0-beta.4 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager/tags/) 
 
 

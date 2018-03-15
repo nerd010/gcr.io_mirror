@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last sync 2018-03-14 23:46 UTC]
+Google Container Registry Mirror [last sync 2018-03-15 23:46 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
 
-Total of 432's gcr.io images
+Total of 433's gcr.io images
 -------
 
 Useage
@@ -755,6 +755,8 @@ Images
 [gcr.io/google_containers/redis-install-3.2.0 √](https://hub.docker.com/r/anjia0532/redis-install-3.2.0/tags/)
 
 [gcr.io/google_containers/redis-slave √](https://hub.docker.com/r/anjia0532/redis-slave/tags/)
+
+[gcr.io/google_containers/registry-promoter-test-image √](https://hub.docker.com/r/anjia0532/registry-promoter-test-image/tags/)
 
 [gcr.io/google_containers/rescheduler √](https://hub.docker.com/r/anjia0532/rescheduler/tags/)
 
