@@ -1,3 +1,17 @@
+## 2018-03-16 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/anjia0532/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. [gcr.io/google_containers/fluentd-gcp-scaler:0.3 updated](https://hub.docker.com/r/anjia0532/fluentd-gcp-scaler/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:1.0.0 updated](https://hub.docker.com/r/anjia0532/ingress-gce-glbc-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/prometheus-to-sd:v0.2.5 updated](https://hub.docker.com/r/anjia0532/prometheus-to-sd/tags/) 
+
+
 ## 2018-03-15 
 
 1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:staging updated](https://hub.docker.com/r/anjia0532/custom-metrics-stackdriver-adapter/tags/) 
