@@ -1,7 +1,13 @@
 [gcr.io/google-containers/hyperkube-s390x](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/) 
 
 ----
+**[gcr.io/google_containers/hyperkube-s390x:v1.10.0-rc.1 updated](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)**
+
+[gcr.io/google_containers/hyperkube-s390x:v1.9.6-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
+
 [gcr.io/google_containers/hyperkube-s390x:v1.9.5-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
+
+[gcr.io/google_containers/hyperkube-s390x:v1.9.5 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
 
 [gcr.io/google_containers/hyperkube-s390x:v1.9.4-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
 
@@ -69,7 +75,11 @@
 
 [gcr.io/google_containers/hyperkube-s390x:v1.8.1-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
 
+[gcr.io/google_containers/hyperkube-s390x:v1.8.11-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
+
 [gcr.io/google_containers/hyperkube-s390x:v1.8.10-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
+
+[gcr.io/google_containers/hyperkube-s390x:v1.8.10 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
 
 [gcr.io/google_containers/hyperkube-s390x:v1.8.1 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
 
@@ -123,7 +133,11 @@
 
 [gcr.io/google_containers/hyperkube-s390x:v1.7.1-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
 
+[gcr.io/google_containers/hyperkube-s390x:v1.7.16-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
+
 [gcr.io/google_containers/hyperkube-s390x:v1.7.15-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
+
+[gcr.io/google_containers/hyperkube-s390x:v1.7.15 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
 
 [gcr.io/google_containers/hyperkube-s390x:v1.7.14-beta.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
 
@@ -244,6 +258,8 @@
 [gcr.io/google_containers/hyperkube-s390x:v1.6.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
 
 [gcr.io/google_containers/hyperkube-s390x:v1.11.0-alpha.0 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
+
+[gcr.io/google_containers/hyperkube-s390x:v1.10.0-rc.1 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
 
 [gcr.io/google_containers/hyperkube-s390x:v1.10.0-beta.4 √](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/)
 

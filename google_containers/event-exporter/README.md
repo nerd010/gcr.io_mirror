@@ -1,6 +1,8 @@
 [gcr.io/google-containers/event-exporter](https://hub.docker.com/r/anjia0532/event-exporter/tags/) 
 
 ----
+[gcr.io/google_containers/event-exporter:v0.1.9 √](https://hub.docker.com/r/anjia0532/event-exporter/tags/)
+
 [gcr.io/google_containers/event-exporter:v0.1.8 √](https://hub.docker.com/r/anjia0532/event-exporter/tags/)
 
 [gcr.io/google_containers/event-exporter:v0.1.7 √](https://hub.docker.com/r/anjia0532/event-exporter/tags/)
