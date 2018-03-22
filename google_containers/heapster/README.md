@@ -1,8 +1,6 @@
 [gcr.io/google-containers/heapster](https://hub.docker.com/r/anjia0532/heapster/tags/) 
 
 ----
-**[gcr.io/google_containers/heapster:v1.5.2 updated](https://hub.docker.com/r/anjia0532/heapster/tags/)**
-
 [gcr.io/google_containers/heapster:v1.5.2 √](https://hub.docker.com/r/anjia0532/heapster/tags/)
 
 [gcr.io/google_containers/heapster:v1.5.1 √](https://hub.docker.com/r/anjia0532/heapster/tags/)
