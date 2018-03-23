@@ -1,3 +1,8 @@
+## 2018-03-23 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.2.0 updated](https://hub.docker.com/r/anjia0532/cluster-autoscaler/tags/) 
+
+
 ## 2018-03-22 
 
 1. [gcr.io/google_containers/cluster-autoscaler:v1.0.5 updated](https://hub.docker.com/r/anjia0532/cluster-autoscaler/tags/) 
