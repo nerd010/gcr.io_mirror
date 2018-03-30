@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last sync 2018-03-28 23:53 UTC]
+Google Container Registry Mirror [last sync 2018-03-29 23:53 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
 
-Total of 433's gcr.io images
+Total of 434's gcr.io images
 -------
 
 Useage
@@ -375,6 +375,8 @@ Images
 [gcr.io/google_containers/jessie-dnsutils √](https://hub.docker.com/r/anjia0532/jessie-dnsutils/tags/)
 
 [gcr.io/google_containers/jsandtest √](https://hub.docker.com/r/anjia0532/jsandtest/tags/)
+
+[gcr.io/google_containers/k8s-cloud-kms-plugin √](https://hub.docker.com/r/anjia0532/k8s-cloud-kms-plugin/tags/)
 
 [gcr.io/google_containers/k8s-custom-iptables √](https://hub.docker.com/r/anjia0532/k8s-custom-iptables/tags/)
 
