@@ -1,10 +1,6 @@
 [gcr.io/google-containers/etcd-ppc64le](https://hub.docker.com/r/anjia0532/etcd-ppc64le/tags/) 
 
 ----
-**[gcr.io/google_containers/etcd-ppc64le:3.1.13-0 updated](https://hub.docker.com/r/anjia0532/etcd-ppc64le/tags/)**
-
-**[gcr.io/google_containers/etcd-ppc64le:3.1.13 updated](https://hub.docker.com/r/anjia0532/etcd-ppc64le/tags/)**
-
 [gcr.io/google_containers/etcd-ppc64le:3.2.17 √](https://hub.docker.com/r/anjia0532/etcd-ppc64le/tags/)
 
 [gcr.io/google_containers/etcd-ppc64le:3.2.16 √](https://hub.docker.com/r/anjia0532/etcd-ppc64le/tags/)

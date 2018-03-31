@@ -1,3 +1,23 @@
+## 2018-03-31 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.6.0 updated](https://hub.docker.com/r/anjia0532/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:862447afba303047d4378262f2501b7de08928a2 updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:862447afba303047d4378262f2501b7de08928a2 updated](https://hub.docker.com/r/anjia0532/ubuntu-nvidia-driver-installer/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-admission-controller:v0.1.0 updated](https://hub.docker.com/r/anjia0532/vpa-admission-controller/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-recommender:v0.1.0 updated](https://hub.docker.com/r/anjia0532/vpa-recommender/tags/) 
+
+
+1. [gcr.io/google_containers/vpa-updater:v0.1.0 updated](https://hub.docker.com/r/anjia0532/vpa-updater/tags/) 
+
+
 ## 2018-03-30 
 
 1. [gcr.io/google_containers/etcd:3.1.13-0 updated](https://hub.docker.com/r/anjia0532/etcd/tags/) 

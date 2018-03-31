@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last sync 2018-03-29 23:53 UTC]
+Google Container Registry Mirror [last sync 2018-03-30 23:54 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
 
-Total of 434's gcr.io images
+Total of 437's gcr.io images
 -------
 
 Useage
@@ -881,6 +881,12 @@ Images
 [gcr.io/google_containers/volume-nfs √](https://hub.docker.com/r/anjia0532/volume-nfs/tags/)
 
 [gcr.io/google_containers/volume-rbd √](https://hub.docker.com/r/anjia0532/volume-rbd/tags/)
+
+[gcr.io/google_containers/vpa-admission-controller √](https://hub.docker.com/r/anjia0532/vpa-admission-controller/tags/)
+
+[gcr.io/google_containers/vpa-recommender √](https://hub.docker.com/r/anjia0532/vpa-recommender/tags/)
+
+[gcr.io/google_containers/vpa-updater √](https://hub.docker.com/r/anjia0532/vpa-updater/tags/)
 
 [gcr.io/google_containers/webhooks-publisher √](https://hub.docker.com/r/anjia0532/webhooks-publisher/tags/)
 
