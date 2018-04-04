@@ -1,3 +1,17 @@
+## 2018-04-04 
+
+1. [gcr.io/google_containers/exechealthz-amd64:v1.3.0 updated](https://hub.docker.com/r/anjia0532/exechealthz-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:1.0.0 updated](https://hub.docker.com/r/anjia0532/ingress-gce-glbc-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:0.9.8 updated](https://hub.docker.com/r/anjia0532/ingress-gce-glbc-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:1.0.1 updated](https://hub.docker.com/r/anjia0532/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2018-04-03 
 
 1. [gcr.io/google_containers/kube-cross:v1.10.1-1 updated](https://hub.docker.com/r/anjia0532/kube-cross/tags/) 
