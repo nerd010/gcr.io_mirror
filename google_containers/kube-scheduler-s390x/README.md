@@ -1,9 +1,9 @@
 [gcr.io/google-containers/kube-scheduler-s390x](https://hub.docker.com/r/anjia0532/kube-scheduler-s390x/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-scheduler-s390x:v1.7.16 updated](https://hub.docker.com/r/anjia0532/kube-scheduler-s390x/tags/)**
+**[gcr.io/google_containers/kube-scheduler-s390x:v1.8.12-beta.0 updated](https://hub.docker.com/r/anjia0532/kube-scheduler-s390x/tags/)**
 
-**[gcr.io/google_containers/kube-scheduler-s390x:v1.7.17-beta.0 updated](https://hub.docker.com/r/anjia0532/kube-scheduler-s390x/tags/)**
+**[gcr.io/google_containers/kube-scheduler-s390x:v1.8.11 updated](https://hub.docker.com/r/anjia0532/kube-scheduler-s390x/tags/)**
 
 [gcr.io/google_containers/kube-scheduler-s390x:v1.9.7-beta.0 √](https://hub.docker.com/r/anjia0532/kube-scheduler-s390x/tags/)
 
@@ -81,7 +81,11 @@
 
 [gcr.io/google_containers/kube-scheduler-s390x:v1.8.1-beta.0 √](https://hub.docker.com/r/anjia0532/kube-scheduler-s390x/tags/)
 
+[gcr.io/google_containers/kube-scheduler-s390x:v1.8.12-beta.0 √](https://hub.docker.com/r/anjia0532/kube-scheduler-s390x/tags/)
+
 [gcr.io/google_containers/kube-scheduler-s390x:v1.8.11-beta.0 √](https://hub.docker.com/r/anjia0532/kube-scheduler-s390x/tags/)
+
+[gcr.io/google_containers/kube-scheduler-s390x:v1.8.11 √](https://hub.docker.com/r/anjia0532/kube-scheduler-s390x/tags/)
 
 [gcr.io/google_containers/kube-scheduler-s390x:v1.8.10-beta.0 √](https://hub.docker.com/r/anjia0532/kube-scheduler-s390x/tags/)
 
