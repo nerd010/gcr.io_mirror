@@ -1,3 +1,14 @@
+## 2018-04-11 
+
+1. [gcr.io/google_containers/k8s-tpu-operator:0.1 updated](https://hub.docker.com/r/anjia0532/k8s-tpu-operator/tags/) 
+
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:3793d66c9304c67da8a36aa7bed87667ddb65845 updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:3793d66c9304c67da8a36aa7bed87667ddb65845 updated](https://hub.docker.com/r/anjia0532/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-04-10 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/anjia0532/addon-builder/tags/) 
