@@ -1,3 +1,29 @@
+## 2018-04-12 
+
+1. [gcr.io/google_containers/etcd:3.2.18-0 updated](https://hub.docker.com/r/anjia0532/etcd/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-amd64:3.2.18-0 updated](https://hub.docker.com/r/anjia0532/etcd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm:3.2.18-0 updated](https://hub.docker.com/r/anjia0532/etcd-arm/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-arm64:3.2.18-0 updated](https://hub.docker.com/r/anjia0532/etcd-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-empty-dir-cleanup:3.2.18.0 updated](https://hub.docker.com/r/anjia0532/etcd-empty-dir-cleanup/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-ppc64le:3.2.18-0 updated](https://hub.docker.com/r/anjia0532/etcd-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/etcd-s390x:3.2.18-0 updated](https://hub.docker.com/r/anjia0532/etcd-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/ingress-gce-glbc-amd64:v1.1.0 updated](https://hub.docker.com/r/anjia0532/ingress-gce-glbc-amd64/tags/) 
+
+
 ## 2018-04-11 
 
 1. [gcr.io/google_containers/k8s-tpu-operator:0.1 updated](https://hub.docker.com/r/anjia0532/k8s-tpu-operator/tags/) 

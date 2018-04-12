@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last sync 2018-04-11 00:00 UTC]
+Google Container Registry Mirror [last sync 2018-04-12 00:00 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
 
-Total of 438's gcr.io images
+Total of 439's gcr.io images
 -------
 
 Useage
@@ -875,6 +875,8 @@ Images
 [gcr.io/google_containers/update-demo √](https://hub.docker.com/r/anjia0532/update-demo/tags/)
 
 [gcr.io/google_containers/volume-ceph √](https://hub.docker.com/r/anjia0532/volume-ceph/tags/)
+
+[gcr.io/google_containers/volume-csi √](https://hub.docker.com/r/anjia0532/volume-csi/tags/)
 
 [gcr.io/google_containers/volume-gluster √](https://hub.docker.com/r/anjia0532/volume-gluster/tags/)
 
