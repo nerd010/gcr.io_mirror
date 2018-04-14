@@ -1,3 +1,8 @@
+## 2018-04-14 
+
+1. [gcr.io/google_containers/cluster-autoscaler:v1.2.1 updated](https://hub.docker.com/r/anjia0532/cluster-autoscaler/tags/) 
+
+
 ## 2018-04-13 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.10.1 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager/tags/) 
