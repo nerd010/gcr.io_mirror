@@ -1,3 +1,8 @@
+## 2018-04-16 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/anjia0532/addon-builder/tags/) 
+
+
 ## 2018-04-15 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/anjia0532/addon-builder/tags/) 
