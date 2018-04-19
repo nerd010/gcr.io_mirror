@@ -1,3 +1,17 @@
+## 2018-04-19 
+
+1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/anjia0532/addon-builder/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v7 updated](https://hub.docker.com/r/anjia0532/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/debian-iptables-amd64:v10 updated](https://hub.docker.com/r/anjia0532/debian-iptables-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/ip-masq-agent-amd64:v2.0.2 updated](https://hub.docker.com/r/anjia0532/ip-masq-agent-amd64/tags/) 
+
+
 ## 2018-04-18 
 
 1. [gcr.io/google_containers/addon-builder:latest updated](https://hub.docker.com/r/anjia0532/addon-builder/tags/) 
