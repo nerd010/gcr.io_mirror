@@ -1,3 +1,11 @@
+## 2018-04-21 
+
+1. [gcr.io/google_containers/kube-state-metrics:v1.3.1 updated](https://hub.docker.com/r/anjia0532/kube-state-metrics/tags/) 
+
+
+1. [gcr.io/google_containers/kube-state-metrics-amd64:v1.3.1 updated](https://hub.docker.com/r/anjia0532/kube-state-metrics-amd64/tags/) 
+
+
 ## 2018-04-20 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.11.0-alpha.1 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager/tags/) 
