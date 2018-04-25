@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last sync 2018-04-24 00:08 UTC]
+Google Container Registry Mirror [last sync 2018-04-25 00:08 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
 
-Total of 439's gcr.io images
+Total of 440's gcr.io images
 -------
 
 Useage
@@ -287,6 +287,8 @@ Images
 [gcr.io/google_containers/git-sync √](https://hub.docker.com/r/anjia0532/git-sync/tags/)
 
 [gcr.io/google_containers/git-sync-amd64 √](https://hub.docker.com/r/anjia0532/git-sync-amd64/tags/)
+
+[gcr.io/google_containers/gke-certificates-controller √](https://hub.docker.com/r/anjia0532/gke-certificates-controller/tags/)
 
 [gcr.io/google_containers/gke-launcher √](https://hub.docker.com/r/anjia0532/gke-launcher/tags/)
 
