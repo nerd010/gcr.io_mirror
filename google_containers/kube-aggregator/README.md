@@ -1,10 +1,6 @@
 [gcr.io/google-containers/kube-aggregator](https://hub.docker.com/r/anjia0532/kube-aggregator/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-aggregator:v1.8.13 updated](https://hub.docker.com/r/anjia0532/kube-aggregator/tags/)**
-
-**[gcr.io/google_containers/kube-aggregator:v1.8.14-beta.0 updated](https://hub.docker.com/r/anjia0532/kube-aggregator/tags/)**
-
 [gcr.io/google_containers/kube-aggregator:v1.9.8-beta.0 √](https://hub.docker.com/r/anjia0532/kube-aggregator/tags/)
 
 [gcr.io/google_containers/kube-aggregator:v1.9.7-beta.0 √](https://hub.docker.com/r/anjia0532/kube-aggregator/tags/)

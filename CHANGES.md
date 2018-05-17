@@ -1,3 +1,11 @@
+## 2018-05-17 
+
+1. [gcr.io/google_containers/custom-metrics-stackdriver-adapter:v0.7.0 updated](https://hub.docker.com/r/anjia0532/custom-metrics-stackdriver-adapter/tags/) 
+
+
+1. [gcr.io/google_containers/netd:v0.1 updated](https://hub.docker.com/r/anjia0532/netd/tags/) 
+
+
 ## 2018-05-16 
 
 1. [gcr.io/google_containers/cloud-controller-manager:v1.8.13 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager/tags/) 
