@@ -1,6 +1,10 @@
 [gcr.io/google-containers/cloud-controller-manager-amd64](https://hub.docker.com/r/anjia0532/cloud-controller-manager-amd64/tags/) 
 
 ----
+**[gcr.io/google_containers/cloud-controller-manager-amd64:v1.12.0-alpha.0 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager-amd64/tags/)**
+
+**[gcr.io/google_containers/cloud-controller-manager-amd64:v1.11.0-beta.0 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager-amd64/tags/)**
+
 [gcr.io/google_containers/cloud-controller-manager-amd64:v1.9.8-beta.0 √](https://hub.docker.com/r/anjia0532/cloud-controller-manager-amd64/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-amd64:v1.9.7-beta.0 √](https://hub.docker.com/r/anjia0532/cloud-controller-manager-amd64/tags/)
@@ -176,6 +180,10 @@
 [gcr.io/google_containers/cloud-controller-manager-amd64:v1.7.1 √](https://hub.docker.com/r/anjia0532/cloud-controller-manager-amd64/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-amd64:v1.7.0 √](https://hub.docker.com/r/anjia0532/cloud-controller-manager-amd64/tags/)
+
+[gcr.io/google_containers/cloud-controller-manager-amd64:v1.12.0-alpha.0 √](https://hub.docker.com/r/anjia0532/cloud-controller-manager-amd64/tags/)
+
+[gcr.io/google_containers/cloud-controller-manager-amd64:v1.11.0-beta.0 √](https://hub.docker.com/r/anjia0532/cloud-controller-manager-amd64/tags/)
 
 [gcr.io/google_containers/cloud-controller-manager-amd64:v1.11.0-alpha.2 √](https://hub.docker.com/r/anjia0532/cloud-controller-manager-amd64/tags/)
 
