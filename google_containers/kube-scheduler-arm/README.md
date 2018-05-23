@@ -1,14 +1,6 @@
 [gcr.io/google-containers/kube-scheduler-arm](https://hub.docker.com/r/anjia0532/kube-scheduler-arm/tags/) 
 
 ----
-**[gcr.io/google_containers/kube-scheduler-arm:v1.9.9-beta.0 updated](https://hub.docker.com/r/anjia0532/kube-scheduler-arm/tags/)**
-
-**[gcr.io/google_containers/kube-scheduler-arm:v1.9.8 updated](https://hub.docker.com/r/anjia0532/kube-scheduler-arm/tags/)**
-
-**[gcr.io/google_containers/kube-scheduler-arm:v1.10.4-beta.0 updated](https://hub.docker.com/r/anjia0532/kube-scheduler-arm/tags/)**
-
-**[gcr.io/google_containers/kube-scheduler-arm:v1.10.3 updated](https://hub.docker.com/r/anjia0532/kube-scheduler-arm/tags/)**
-
 [gcr.io/google_containers/kube-scheduler-arm:v1.9.9-beta.0 √](https://hub.docker.com/r/anjia0532/kube-scheduler-arm/tags/)
 
 [gcr.io/google_containers/kube-scheduler-arm:v1.9.8-beta.0 √](https://hub.docker.com/r/anjia0532/kube-scheduler-arm/tags/)
