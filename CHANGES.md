@@ -1,3 +1,8 @@
+## 2018-05-24 
+
+1. [gcr.io/google_containers/cadvisor:v0.28.4 updated](https://hub.docker.com/r/anjia0532/cadvisor/tags/) 
+
+
 ## 2018-05-22 
 
 1. [gcr.io/google_containers/addon-builder:test updated](https://hub.docker.com/r/anjia0532/addon-builder/tags/) 
