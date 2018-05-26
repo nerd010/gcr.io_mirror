@@ -1,3 +1,11 @@
+## 2018-05-26 
+
+1. [gcr.io/google_containers/nvidia-gpu-device-plugin:3e9582fdf5f9b8ae0d6b822f3c2c48beada9b59f updated](https://hub.docker.com/r/anjia0532/nvidia-gpu-device-plugin/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:3e9582fdf5f9b8ae0d6b822f3c2c48beada9b59f updated](https://hub.docker.com/r/anjia0532/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-05-24 
 
 1. [gcr.io/google_containers/cadvisor:v0.28.4 updated](https://hub.docker.com/r/anjia0532/cadvisor/tags/) 
