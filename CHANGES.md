@@ -1,3 +1,77 @@
+## 2018-06-02 
+
+1. [gcr.io/google_containers/addon-builder:am-i-a-manifest-list updated](https://hub.docker.com/r/anjia0532/addon-builder/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-amd64:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-arm:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager-arm/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-arm64:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-ppc64le:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/cloud-controller-manager-s390x:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/cloud-controller-manager-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/hyperkube/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-amd64:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/hyperkube-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-arm:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/hyperkube-arm/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-arm64:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/hyperkube-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-ppc64le:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/hyperkube-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/hyperkube-s390x:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/hyperkube-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-aggregator-arm:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/kube-aggregator-arm/tags/) 
+
+
+1. [gcr.io/google_containers/kube-aggregator-arm64:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/kube-aggregator-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-aggregator-ppc64le:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/kube-aggregator-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-aggregator-s390x:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/kube-aggregator-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-apiserver-arm64:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/kube-apiserver-arm64/tags/) 
+
+
+1. [gcr.io/google_containers/kube-apiserver-ppc64le:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/kube-apiserver-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-apiserver-s390x:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/kube-apiserver-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/kube-controller-manager-ppc64le:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/kube-controller-manager-ppc64le/tags/) 
+
+
+1. [gcr.io/google_containers/kube-controller-manager-s390x:v1.11.0-beta.1 updated](https://hub.docker.com/r/anjia0532/kube-controller-manager-s390x/tags/) 
+
+
+1. [gcr.io/google_containers/netd-amd64:0.1 updated](https://hub.docker.com/r/anjia0532/netd-amd64/tags/) 
+
+
+1. [gcr.io/google_containers/ubuntu-nvidia-driver-installer:93cddbb9baf81534f84380f706c2cb7a5aadc2b5 updated](https://hub.docker.com/r/anjia0532/ubuntu-nvidia-driver-installer/tags/) 
+
+
 ## 2018-06-01 
 
 1. [gcr.io/google_containers/etcd:3.1.16 updated](https://hub.docker.com/r/anjia0532/etcd/tags/) 

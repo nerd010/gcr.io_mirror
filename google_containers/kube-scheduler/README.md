@@ -511,6 +511,8 @@
 
 [gcr.io/google_containers/kube-scheduler:v1.12.0-alpha.0 √](https://hub.docker.com/r/anjia0532/kube-scheduler/tags/)
 
+[gcr.io/google_containers/kube-scheduler:v1.11.0-beta.1 √](https://hub.docker.com/r/anjia0532/kube-scheduler/tags/)
+
 [gcr.io/google_containers/kube-scheduler:v1.11.0-beta.0 √](https://hub.docker.com/r/anjia0532/kube-scheduler/tags/)
 
 [gcr.io/google_containers/kube-scheduler:v1.11.0-alpha.2 √](https://hub.docker.com/r/anjia0532/kube-scheduler/tags/)

@@ -1,9 +1,9 @@
-Google Container Registry Mirror [last sync 2018-06-01 00:29 UTC]
+Google Container Registry Mirror [last sync 2018-06-02 00:30 UTC]
 -------
 
 [![Sync Status](https://travis-ci.org/anjia0532/gcr.io_mirror.svg?branch=sync)](https://travis-ci.org/anjia0532/gcr.io_mirror)
 
-Total of 441's gcr.io images
+Total of 442's gcr.io images
 -------
 
 Useage
@@ -655,6 +655,8 @@ Images
 [gcr.io/google_containers/mysql-healthz √](https://hub.docker.com/r/anjia0532/mysql-healthz/tags/)
 
 [gcr.io/google_containers/netd √](https://hub.docker.com/r/anjia0532/netd/tags/)
+
+[gcr.io/google_containers/netd-amd64 √](https://hub.docker.com/r/anjia0532/netd-amd64/tags/)
 
 [gcr.io/google_containers/netexec √](https://hub.docker.com/r/anjia0532/netexec/tags/)
 
